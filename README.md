@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AsmaGhamacha&icon=0&color=10)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/AsmaGhamacha/AsmaGhamacha/blob/output/snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
