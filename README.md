@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Benchmarking Medical Language Models (Med-BERT, ClinicalBERT, BioGPT) on Electronic Health Records (EHRs) in clinical NLP tasks<br>🌱 I’m currently learning about AI Agents (ReAct, AutoGen, DSPy)<br>👨‍💻 All of my projects are available in my github<br>📝 I'm currently writing an article about an AI-powered veterinary diagnostics pipeline<br>📫 How to reach me asma.ghamacha@gmail.com<br>⚡ Fun fact I love building PC setups and playing RPG games
+🔭 I’m currently working on Benchmarking Medical Language Models (Med-BERT, ClinicalBERT, BioGPT) on Electronic Health Records (EHRs) in clinical NLP tasks<br>🌱 I’m currently learning about AI Agents (ReAct, AutoGen, DSPy)<br>👨‍💻 All of my projects are available in my github<br>📝 I'm currently writing an article about an AI-powered veterinary diagnostics pipeline<br>📫 How to reach me asma.ghamacha@gmail.com<br>⚡ Fun fact: I love building PC setups and playing RPG games
 
 
 ## 🌐 Socials:
